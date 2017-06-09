@@ -1,0 +1,16 @@
+(1966673,35520,6,0,0,'이 드라마의 가치는 근육질의 제나 보는 재미 조금만 더 벗었으면 최고')
+(1083463,35520,1,0,0,'정말 이런 쓰레기영화가 없다..')
+(112390,35520,10,0,0,'예전 위성tv에서 본 기억이 아련합니다. 정말 괜찮은 외국 판타지>ㅅ  </p
+<dl>
+<dt>
+<em>
+<a href="#" onclick="javascript:showPointListByNid(112390, ''after'');parent.clickcr(this, ''ara.uid'', '''', '''', event); return false;" target="_top">
+<span>eveo****</span>
+</a>
+</em>
+<em>2004.09.21 21:30</em>
+</dt>
+<dd>
+<a class="go_report2" href="#" onclick="parent.clickcr(this, ''ara.report'', '''', '''', event); common.report(''false'',''eveo****'', ''Klmz/ZUmi4M2A4Dy4MDteOGiF7GawVXvdCQ83vZLXY8='', ''예전 위성tv에서 본 기억이 아련합니다. 정말 괜찮은 외국 판타지&gt;ㅅ&lt;! '', ''112390'', ''point_after'', false);return false;"><em>신고</em></a>
+</dd>
+</dl>')
